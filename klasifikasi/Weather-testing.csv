@@ -1,0 +1,6 @@
+No,Outlook,Temperature,Humidity,Windy,Play
+1,Sunny,Hot,High,FALSE,No
+2,Sunny,Mild,High,TRUE,Yes
+3,Cloudy,Hot,Normal,FALSE,Yes
+4,Cloudy,Mild,High,TRUE,Yes
+5,Cloudy,Hot,Normal,FALSE,Yes

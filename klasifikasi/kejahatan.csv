@@ -1,0 +1,151 @@
+ID,Tanggal,Lokasi,Jenis Kelamin Pelaku,Usia Pelaku,Jenis Kejahatan,Waktu Kejadian,Hari,Senjata Terlibat,Status Pelaku,Jumlah Korban,Motivasi Kejahatan
+1,2023-01-01,Jakarta Pusat,Laki-laki,30,Pencurian,04:30,Minggu,Tidak,DPO,1,Keuangan
+2,2023-01-03,Bandung,Laki-laki,25,Perampokan,23:00,Selasa,Ya,Ditangkap,2,Kekerasan
+3,2023-01-04,Surabaya,Perempuan,40,Penipuan,15:45,Rabu,Tidak,Ditangkap,3,Keuangan
+4,2023-01-05,Medan,Laki-laki,28,Pembunuhan,20:00,Kamis,Ya,DPO,1,Kekeluargaan
+5,2023-01-06,Yogyakarta,Perempuan,35,Penganiayaan,10:15,Jumat,Tidak,Ditangkap,2,Pribadi
+6,2023-01-07,Makassar,Laki-laki,32,Pencurian,03:00,Sabtu,Tidak,DPO,1,Keuangan
+7,2023-01-08,Bali,Laki-laki,45,Perampokan,18:30,Minggu,Ya,Ditangkap,3,Kekerasan
+8,2023-01-09,Jakarta Timur,Perempuan,29,Penipuan,13:00,Senin,Tidak,DPO,2,Keuangan
+9,2023-01-10,Bandung,Laki-laki,33,Pencurian,05:00,Selasa,Tidak,Ditangkap,1,Keuangan
+10,2023-01-11,Surabaya,Perempuan,50,Pemerasan,16:20,Rabu,Tidak,Ditangkap,2,Keuangan
+11,2023-01-12,Yogyakarta,Laki-laki,40,Pembunuhan,19:00,Kamis,Ya,DPO,1,Kekeluargaan
+12,2023-01-13,Makassar,Perempuan,37,Pencurian,12:30,Jumat,Tidak,Ditangkap,1,Keuangan
+13,2023-01-14,Jakarta Pusat,Laki-laki,22,Perampokan,02:15,Sabtu,Ya,Ditangkap,3,Kekerasan
+14,2023-01-15,Bali,Laki-laki,31,Penipuan,10:30,Minggu,Tidak,DPO,1,Keuangan
+15,2023-01-16,Surabaya,Perempuan,41,Penganiayaan,21:40,Senin,Tidak,Ditangkap,1,Pribadi
+16,2023-01-17,Jakarta Barat,Laki-laki,28,Pencurian,17:50,Selasa,Tidak,DPO,1,Keuangan
+17,2023-01-18,Medan,Laki-laki,29,Perampokan,02:00,Rabu,Ya,Ditangkap,2,Kekerasan
+18,2023-01-19,Makassar,Perempuan,34,Pencurian,14:10,Kamis,Tidak,DPO,1,Keuangan
+19,2023-01-20,Jakarta Timur,Laki-laki,42,Pembunuhan,23:45,Jumat,Ya,DPO,1,Kekeluargaan
+20,2023-01-21,Surabaya,Perempuan,38,Penipuan,11:00,Sabtu,Tidak,Ditangkap,1,Keuangan
+21,2023-01-22,Yogyakarta,Laki-laki,25,Perampokan,19:30,Minggu,Ya,Ditangkap,3,Kekerasan
+22,2023-01-23,Bali,Perempuan,30,Penganiayaan,13:50,Senin,Tidak,DPO,2,Pribadi
+23,2023-01-24,Jakarta Pusat,Laki-laki,29,Pencurian,03:00,Selasa,Tidak,DPO,1,Keuangan
+24,2023-01-25,Medan,Perempuan,41,Penipuan,09:15,Rabu,Tidak,Ditangkap,3,Keuangan
+25,2023-01-26,Makassar,Laki-laki,33,Pencurian,06:10,Kamis,Tidak,Ditangkap,1,Keuangan
+26,2023-01-27,Jakarta Barat,Laki-laki,31,Perampokan,20:30,Jumat,Ya,Ditangkap,2,Kekerasan
+27,2023-01-28,Surabaya,Laki-laki,37,Pembunuhan,22:40,Sabtu,Ya,DPO,1,Kekeluargaan
+28,2023-01-29,Yogyakarta,Perempuan,32,Penipuan,12:30,Minggu,Tidak,Ditangkap,2,Keuangan
+29,2023-01-30,Bali,Laki-laki,26,Pencurian,07:30,Senin,Tidak,DPO,1,Keuangan
+30,2023-01-31,Jakarta Timur,Perempuan,39,Penganiayaan,16:00,Selasa,Tidak,Ditangkap,2,Pribadi
+31,2023-02-01,Medan,Laki-laki,31,Pencurian,10:45,Rabu,Tidak,Ditangkap,1,Keuangan
+32,2023-02-02,Surabaya,Perempuan,32,Penipuan,17:00,Kamis,Tidak,Ditangkap,3,Keuangan
+33,2023-02-03,Yogyakarta,Laki-laki,27,Pembunuhan,23:15,Jumat,Ya,DPO,1,Kekeluargaan
+34,2023-02-04,Bali,Laki-laki,34,Perampokan,21:00,Sabtu,Ya,Ditangkap,2,Kekerasan
+35,2023-02-05,Jakarta Barat,Perempuan,29,Pencurian,05:30,Minggu,Tidak,Ditangkap,1,Keuangan
+36,2023-02-06,Medan,Laki-laki,38,Penipuan,08:00,Senin,Tidak,Ditangkap,4,Keuangan
+37,2023-02-07,Jakarta Timur,Laki-laki,35,Pembunuhan,19:20,Selasa,Ya,DPO,1,Kekeluargaan
+38,2023-02-08,Surabaya,Laki-laki,26,Perampokan,14:00,Rabu,Ya,Ditangkap,3,Kekerasan
+39,2023-02-09,Yogyakarta,Perempuan,42,Pencurian,03:30,Kamis,Tidak,DPO,1,Keuangan
+40,2023-02-10,Bali,Laki-laki,33,Penipuan,11:15,Jumat,Tidak,Ditangkap,2,Keuangan
+41,2023-02-11,Jakarta Pusat,Laki-laki,29,Pembunuhan,02:00,Sabtu,Ya,DPO,1,Kekeluargaan
+42,2023-02-12,Medan,Perempuan,35,Perampokan,19:45,Minggu,Ya,Ditangkap,2,Kekerasan
+43,2023-02-13,Surabaya,Laki-laki,27,Pencurian,04:10,Senin,Tidak,DPO,1,Keuangan
+44,2023-02-14,Yogyakarta,Laki-laki,31,Penipuan,08:20,Selasa,Tidak,Ditangkap,3,Keuangan
+45,2023-02-15,Bali,Laki-laki,28,Pembunuhan,21:00,Rabu,Ya,DPO,1,Kekeluargaan
+46,2023-02-16,Jakarta Barat,Perempuan,32,Perampokan,16:25,Kamis,Ya,Ditangkap,3,Kekerasan
+47,2023-02-17,Medan,Laki-laki,34,Pencurian,12:40,Jumat,Tidak,Ditangkap,1,Keuangan
+48,2023-02-18,Surabaya,Perempuan,26,Penipuan,22:30,Sabtu,Tidak,DPO,2,Keuangan
+49,2023-02-19,Yogyakarta,Laki-laki,40,Pembunuhan,17:50,Minggu,Ya,Ditangkap,1,Kekeluargaan
+50,2023-02-20,Bali,Perempuan,31,Perampokan,03:15,Senin,Ya,Ditangkap,2,Kekerasan
+51,2023-02-21,Jakarta Pusat,Laki-laki,38,Pencurian,06:00,Selasa,Tidak,DPO,1,Keuangan
+52,2023-02-22,Medan,Perempuan,33,Penipuan,15:25,Rabu,Tidak,Ditangkap,4,Keuangan
+53,2023-02-23,Surabaya,Laki-laki,29,Pembunuhan,21:10,Kamis,Ya,Ditangkap,1,Kekeluargaan
+54,2023-02-24,Yogyakarta,Laki-laki,34,Perampokan,09:00,Jumat,Ya,Ditangkap,3,Kekerasan
+55,2023-02-25,Bali,Perempuan,28,Pencurian,05:50,Sabtu,Tidak,DPO,1,Keuangan
+56,2023-02-26,Jakarta Timur,Laki-laki,31,Penipuan,13:10,Minggu,Tidak,Ditangkap,2,Keuangan
+57,2023-02-27,Medan,Laki-laki,36,Pembunuhan,17:15,Senin,Ya,DPO,1,Kekeluargaan
+58,2023-02-28,Surabaya,Perempuan,30,Perampokan,22:00,Selasa,Ya,Ditangkap,2,Kekerasan
+59,2023-03-01,Yogyakarta,Laki-laki,27,Pencurian,04:30,Rabu,Tidak,DPO,1,Keuangan
+60,2023-03-02,Bali,Laki-laki,34,Penipuan,12:20,Kamis,Tidak,Ditangkap,2,Keuangan
+61,2023-03-03,Jakarta Pusat,Laki-laki,30,Pembunuhan,23:00,Jumat,Ya,Ditangkap,1,Kekeluargaan
+62,2023-03-04,Medan,Perempuan,32,Perampokan,02:30,Sabtu,Ya,Ditangkap,2,Kekerasan
+63,2023-03-05,Surabaya,Laki-laki,25,Pencurian,16:00,Minggu,Tidak,DPO,1,Keuangan
+64,2023-03-06,Yogyakarta,Laki-laki,33,Penipuan,18:20,Senin,Tidak,Ditangkap,3,Keuangan
+65,2023-03-07,Bali,Perempuan,29,Pembunuhan,21:30,Selasa,Ya,DPO,1,Kekeluargaan
+66,2023-03-08,Jakarta Timur,Laki-laki,32,Perampokan,10:10,Rabu,Ya,Ditangkap,3,Kekerasan
+67,2023-03-09,Medan,Laki-laki,34,Pencurian,06:00,Kamis,Tidak,Ditangkap,1,Keuangan
+68,2023-03-10,Surabaya,Perempuan,30,Penipuan,03:00,Jumat,Tidak,DPO,2,Keuangan
+69,2023-03-11,Yogyakarta,Laki-laki,36,Pembunuhan,19:20,Sabtu,Ya,Ditangkap,1,Kekeluargaan
+70,2023-03-12,Bali,Perempuan,33,Perampokan,22:30,Minggu,Ya,Ditangkap,2,Kekerasan
+71,2023-03-13,Jakarta Pusat,Laki-laki,29,Pencurian,05:10,Senin,Tidak,DPO,1,Keuangan
+72,2023-03-14,Medan,Laki-laki,38,Penipuan,08:40,Selasa,Tidak,Ditangkap,4,Keuangan
+73,2023-03-15,Surabaya,Laki-laki,33,Pembunuhan,10:30,Rabu,Ya,DPO,1,Kekeluargaan
+74,2023-03-16,Yogyakarta,Laki-laki,34,Perampokan,14:40,Kamis,Ya,Ditangkap,3,Kekerasan
+75,2023-03-17,Bali,Perempuan,30,Pencurian,06:00,Jumat,Tidak,DPO,1,Keuangan
+76,2023-03-18,Jakarta Timur,Laki-laki,25,Penipuan,20:30,Sabtu,Tidak,Ditangkap,2,Keuangan
+77,2023-03-19,Medan,Laki-laki,32,Pembunuhan,17:00,Minggu,Ya,DPO,1,Kekeluargaan
+78,2023-03-20,Surabaya,Perempuan,29,Perampokan,10:15,Senin,Ya,Ditangkap,2,Kekerasan
+79,2023-03-21,Yogyakarta,Laki-laki,36,Pencurian,05:50,Selasa,Tidak,Ditangkap,1,Keuangan
+80,2023-03-22,Bali,Perempuan,33,Penipuan,07:00,Rabu,Tidak,DPO,2,Keuangan
+81,2023-03-23,Jakarta Pusat,Laki-laki,31,Pembunuhan,21:20,Kamis,Ya,DPO,1,Kekeluargaan
+82,2023-03-24,Medan,Laki-laki,30,Perampokan,09:10,Jumat,Ya,Ditangkap,3,Kekerasan
+83,2023-03-25,Surabaya,Perempuan,28,Pencurian,15:00,Sabtu,Tidak,DPO,1,Keuangan
+84,2023-03-26,Yogyakarta,Laki-laki,34,Penipuan,11:10,Minggu,Tidak,Ditangkap,2,Keuangan
+85,2023-03-27,Bali,Laki-laki,36,Pembunuhan,23:00,Senin,Ya,Ditangkap,1,Kekeluargaan
+86,2023-03-28,Jakarta Barat,Perempuan,32,Perampokan,07:10,Selasa,Ya,Ditangkap,2,Kekerasan
+87,2023-03-29,Medan,Laki-laki,30,Pencurian,19:20,Rabu,Tidak,DPO,1,Keuangan
+88,2023-03-30,Surabaya,Laki-laki,29,Penipuan,05:00,Kamis,Tidak,Ditangkap,3,Keuangan
+89,2023-03-31,Yogyakarta,Laki-laki,32,Pembunuhan,22:15,Jumat,Ya,DPO,1,Kekeluargaan
+90,2023-04-01,Bali,Perempuan,35,Perampokan,16:00,Sabtu,Ya,Ditangkap,2,Kekerasan
+91,2023-04-02,Jakarta Timur,Laki-laki,29,Pencurian,13:00,Minggu,Tidak,Ditangkap,1,Keuangan
+92,2023-04-03,Medan,Laki-laki,34,Penipuan,18:50,Senin,Tidak,DPO,2,Keuangan
+93,2023-04-04,Surabaya,Perempuan,31,Pembunuhan,02:40,Selasa,Ya,Ditangkap,1,Kekeluargaan
+94,2023-04-05,Yogyakarta,Laki-laki,25,Perampokan,21:00,Rabu,Ya,Ditangkap,3,Kekerasan
+95,2023-04-06,Bali,Laki-laki,28,Pencurian,09:30,Kamis,Tidak,DPO,1,Keuangan
+96,2023-04-07,Jakarta Pusat,Laki-laki,33,Penipuan,14:20,Jumat,Tidak,Ditangkap,2,Keuangan
+97,2023-04-08,Medan,Perempuan,31,Pembunuhan,19:00,Sabtu,Ya,DPO,1,Kekeluargaan
+98,2023-04-09,Surabaya,Laki-laki,36,Perampokan,16:30,Minggu,Ya,Ditangkap,3,Kekerasan
+99,2023-04-10,Yogyakarta,Laki-laki,30,Pencurian,04:50,Senin,Tidak,DPO,1,Keuangan
+100,2023-04-11,Bali,Laki-laki,25,Penipuan,15:10,Selasa,Tidak,Ditangkap,2,Keuangan
+101,2023-04-12,Jakarta Timur,Perempuan,29,Pembunuhan,08:00,Rabu,Ya,DPO,1,Kekeluargaan
+102,2023-04-13,Medan,Laki-laki,33,Perampokan,20:15,Kamis,Ya,Ditangkap,2,Kekerasan
+103,2023-04-14,Surabaya,Laki-laki,28,Pencurian,22:00,Jumat,Tidak,DPO,1,Keuangan
+104,2023-04-15,Yogyakarta,Perempuan,35,Penipuan,12:00,Sabtu,Tidak,Ditangkap,2,Keuangan
+105,2023-04-16,Bali,Laki-laki,30,Pembunuhan,03:30,Minggu,Ya,DPO,1,Kekeluargaan
+106,2023-04-17,Jakarta Barat,Perempuan,28,Perampokan,09:00,Senin,Ya,Ditangkap,2,Kekerasan
+107,2023-04-18,Medan,Laki-laki,35,Pencurian,19:10,Selasa,Tidak,Ditangkap,1,Keuangan
+108,2023-04-19,Surabaya,Perempuan,33,Penipuan,14:40,Rabu,Tidak,DPO,3,Keuangan
+109,2023-04-20,Yogyakarta,Laki-laki,29,Pembunuhan,20:20,Kamis,Ya,Ditangkap,1,Kekeluargaan
+110,2023-04-21,Bali,Laki-laki,31,Perampokan,07:30,Jumat,Ya,Ditangkap,2,Kekerasan
+111,2023-04-22,Jakarta Pusat,Laki-laki,28,Pencurian,16:00,Sabtu,Tidak,DPO,1,Keuangan
+112,2023-04-23,Medan,Laki-laki,29,Penipuan,19:00,Minggu,Tidak,Ditangkap,2,Keuangan
+113,2023-04-24,Surabaya,Laki-laki,31,Pembunuhan,08:00,Senin,Ya,DPO,1,Kekeluargaan
+114,2023-04-25,Yogyakarta,Perempuan,34,Perampokan,12:30,Selasa,Ya,Ditangkap,3,Kekerasan
+115,2023-04-26,Bali,Laki-laki,30,Pencurian,05:30,Rabu,Tidak,DPO,1,Keuangan
+116,2023-04-27,Jakarta Timur,Laki-laki,32,Penipuan,22:00,Kamis,Tidak,Ditangkap,3,Keuangan
+117,2023-04-28,Medan,Laki-laki,33,Pembunuhan,01:30,Jumat,Ya,DPO,1,Kekeluargaan
+118,2023-04-29,Surabaya,Perempuan,34,Perampokan,11:00,Sabtu,Ya,Ditangkap,2,Kekerasan
+119,2023-04-30,Yogyakarta,Laki-laki,25,Pencurian,07:00,Minggu,Tidak,DPO,1,Keuangan
+120,2023-05-01,Bali,Laki-laki,29,Penipuan,14:30,Senin,Tidak,Ditangkap,2,Keuangan
+121,2023-05-02,Jakarta Pusat,Laki-laki,35,Pembunuhan,19:00,Selasa,Ya,DPO,1,Kekeluargaan
+122,2023-05-03,Medan,Laki-laki,28,Perampokan,22:00,Rabu,Ya,Ditangkap,3,Kekerasan
+123,2023-05-04,Surabaya,Perempuan,33,Pencurian,15:00,Kamis,Tidak,DPO,1,Keuangan
+124,2023-05-05,Yogyakarta,Laki-laki,34,Penipuan,10:10,Jumat,Tidak,Ditangkap,2,Keuangan
+125,2023-05-06,Bali,Laki-laki,30,Pembunuhan,06:00,Sabtu,Ya,DPO,1,Kekeluargaan
+126,2023-05-07,Jakarta Timur,Laki-laki,32,Perampokan,20:15,Minggu,Ya,Ditangkap,2,Kekerasan
+127,2023-05-08,Medan,Laki-laki,28,Pencurian,05:45,Senin,Tidak,Ditangkap,1,Keuangan
+128,2023-05-09,Surabaya,Laki-laki,30,Penipuan,09:30,Selasa,Tidak,DPO,2,Keuangan
+129,2023-05-10,Yogyakarta,Perempuan,29,Pembunuhan,13:00,Rabu,Ya,DPO,1,Kekeluargaan
+130,2023-05-11,Bali,Laki-laki,31,Perampokan,07:10,Kamis,Ya,Ditangkap,3,Kekerasan
+131,2023-05-12,Jakarta Pusat,Perempuan,28,Pencurian,10:30,Jumat,Tidak,DPO,1,Keuangan
+132,2023-05-13,Medan,Laki-laki,33,Penipuan,19:40,Sabtu,Tidak,Ditangkap,2,Keuangan
+133,2023-05-14,Surabaya,Laki-laki,29,Pembunuhan,22:30,Minggu,Ya,DPO,1,Kekeluargaan
+134,2023-05-15,Yogyakarta,Laki-laki,31,Perampokan,08:20,Senin,Ya,Ditangkap,2,Kekerasan
+135,2023-05-16,Bali,Laki-laki,29,Pencurian,14:00,Selasa,Tidak,DPO,1,Keuangan
+136,2023-05-17,Jakarta Timur,Perempuan,33,Penipuan,18:30,Rabu,Tidak,Ditangkap,3,Keuangan
+137,2023-05-18,Medan,Laki-laki,28,Pembunuhan,23:50,Kamis,Ya,DPO,1,Kekeluargaan
+138,2023-05-19,Surabaya,Perempuan,32,Perampokan,12:30,Jumat,Ya,Ditangkap,2,Kekerasan
+139,2023-05-20,Yogyakarta,Laki-laki,29,Pencurian,06:20,Sabtu,Tidak,DPO,1,Keuangan
+140,2023-05-21,Bali,Laki-laki,28,Penipuan,08:30,Minggu,Tidak,Ditangkap,3,Keuangan
+141,2023-05-22,Jakarta Pusat,Laki-laki,30,Pembunuhan,10:15,Senin,Ya,DPO,1,Kekeluargaan
+142,2023-05-23,Medan,Laki-laki,33,Perampokan,19:00,Selasa,Ya,Ditangkap,2,Kekerasan
+143,2023-05-24,Surabaya,Perempuan,28,Pencurian,16:40,Rabu,Tidak,DPO,1,Keuangan
+144,2023-05-25,Yogyakarta,Laki-laki,30,Penipuan,22:00,Kamis,Tidak,Ditangkap,3,Keuangan
+145,2023-05-26,Bali,Laki-laki,32,Pembunuhan,07:30,Jumat,Ya,DPO,1,Kekeluargaan
+146,2023-05-27,Jakarta Timur,Laki-laki,28,Perampokan,15:40,Sabtu,Ya,Ditangkap,2,Kekerasan
+147,2023-05-28,Medan,Laki-laki,30,Pencurian,12:00,Minggu,Tidak,DPO,1,Keuangan
+148,2023-05-29,Surabaya,Perempuan,33,Penipuan,11:30,Senin,Tidak,Ditangkap,3,Keuangan
+149,2023-05-30,Yogyakarta,Laki-laki,31,Pembunuhan,06:30,Selasa,Ya,DPO,1,Kekeluargaan
+150,2023-05-31,Bali,Laki-laki,30,Perampokan,04:10,Rabu,Ya,Ditangkap,2,Kekerasan
